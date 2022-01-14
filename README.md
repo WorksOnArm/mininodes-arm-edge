@@ -17,13 +17,14 @@ The [Works on Arm program]( https://www.worksonarm.com/) provides free access to
 
 ---
 
-## Submit a request
+### Submit a request
 
 Apply to use the on-demand infrastructure by [creating an issue]( https://github.com/WorksOnArm/mininodes-arm-edge/issues/new/choose) in this repository.
 Add comments to existing issue for any change in authorized users (add/remove/edit) or change in hardware requirements (machine type/number). 
 
 **Please include the following information:**
 
+``
 ### Personal information
 - name: 
 - email:
@@ -36,6 +37,6 @@ Add comments to existing issue for any change in authorized users (add/remove/ed
 
 ### Request information
 - what device(s):
-- quanitity(ies):
+- quanitity(ies):``
 
 Your request will be reviewed by a team member, and hardware will be provisioned accordingly.
