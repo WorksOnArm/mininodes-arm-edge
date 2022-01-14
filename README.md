@@ -26,18 +26,18 @@ Add comments to existing issue for any change in authorized users (add/remove/ed
 
 ```
 ### Personal information
-- name: 
-- email:
+- Name: 
+- Email:
 
 ### Project information
-- name of project:
-- description:
-- website (if applicable):
-- other links/resources:
+- Name of project:
+- Description:
+- Website (if applicable):
+- Other links/resources:
 
 ### Request information
-- what device(s):
-- quanitity(ies):
+- What device type(s):
+- Quanitity(ies):
 ```
 
 Your request will be reviewed by a team member, and hardware will be provisioned accordingly.
