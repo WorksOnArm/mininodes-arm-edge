@@ -8,5 +8,30 @@ Arm and miniNodes have partnered to make Arm-based edge devices and single board
 
 The [Works on Arm program]( https://www.worksonarm.com/) provides free access to common Arm-based edge hardware, early-access hardware from Arm partners, and computing resources for open source developers. The on-demand resources are managed by [miniNodes]( https://www.mininodes.com/) as part of its commitment to the Arm communities. Funding for the system is provided by Arm Inc.
 
+**Available hardware:**
+- Jetson Nano 4gb
+- Jetson Nano 2gb
+- Jetson Xavier
+- Raspberry Pi 8gb RAM
+- 96Boards Ultra96
+
 Apply to use the on-demand infrastructure by [creating an issue]( https://github.com/WorksOnArm/mininodes-arm-edge/issues/new/choose) in this repository.
 Add comments to existing issue for any change in authorized users (add/remove/edit) or change in hardware requirements (machine type/number). 
+
+**Please include the following information:**
+
+### Personal information
+- name: 
+- email:
+
+### Project information
+- name of project:
+- description:
+- website (if applicable):
+- other links/resources:
+
+### Request information
+- what device(s):
+- quanitity(ies):
+
+Your request will be reviewed by a team member, and hardware will be provisioned accordingly.
