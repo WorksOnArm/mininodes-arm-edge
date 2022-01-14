@@ -15,6 +15,10 @@ The [Works on Arm program]( https://www.worksonarm.com/) provides free access to
 - Raspberry Pi 8gb RAM
 - 96Boards Ultra96
 
+---
+
+## Submit a request
+
 Apply to use the on-demand infrastructure by [creating an issue]( https://github.com/WorksOnArm/mininodes-arm-edge/issues/new/choose) in this repository.
 Add comments to existing issue for any change in authorized users (add/remove/edit) or change in hardware requirements (machine type/number). 
 
