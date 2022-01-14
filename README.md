@@ -24,7 +24,7 @@ Add comments to existing issue for any change in authorized users (add/remove/ed
 
 **Please include the following information:**
 
-``
+```
 ### Personal information
 - name: 
 - email:
@@ -37,6 +37,7 @@ Add comments to existing issue for any change in authorized users (add/remove/ed
 
 ### Request information
 - what device(s):
-- quanitity(ies):``
+- quanitity(ies):
+```
 
 Your request will be reviewed by a team member, and hardware will be provisioned accordingly.
